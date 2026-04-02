@@ -1,0 +1,6 @@
+equipment_id,site,zone,temperature,energy_kwh,status,recorded_at
+EQ001,DC-BRU-01,A1,22.4,154.2,active,2026-03-10 08:00
+EQ002,DC-BRU-01,A1,-8.00,160.00,ACTIVE,2026-03-10 08:05
+EQ003,DC-BRU-01,B2,47.9,171.5,alert,2026-03-10 08:10
+EQ006,DC-GHL-01,C2,23.1,165.0,active,2026-03-10 08:20
+EQ007,DC-BRU-01,B2,22.8,9999.00,active,2026-03-10 08:25

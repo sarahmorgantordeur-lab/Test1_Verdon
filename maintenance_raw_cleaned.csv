@@ -1,0 +1,4 @@
+task_id,site,technician,duration_min,result,planned_at
+MT001,DC-BRU-01,Laura,30,done,2026-03-10 09:00
+MT004,DC-GHL-01,Karim,40,PENDING,2026-03-10 10:00
+MT005,DC-BRU-01,Laura,-5,done,2026-03-10 10:30
